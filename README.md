@@ -18,7 +18,7 @@ market portfolio?
 return of 0.3%?
 
 Result:
-weight of minmum variance portfolio
+(a)weight of minmum variance portfolio
 weight of risk free	0
 'MMM'	-25.47%
 'AXP'	13.87%
@@ -51,7 +51,9 @@ weight of risk free	0
 'WMT'	20.13%
 'DIS'	-18.03%
 
-weight of Market Portfolio
+
+
+(b)weight of Market Portfolio
 weight of risk free	0
 'MMM'	172%
 'AXP'	-76%
@@ -85,7 +87,7 @@ UTX'	-74%
 'DIS'	56%
 
 
-weight of 0.3% return efficient portfolio
+(c)weight of 0.3% return efficient portfolio
 weight of risk free	0.985048305
 'MMM'	2.57%
 'AXP'	-1.14%
