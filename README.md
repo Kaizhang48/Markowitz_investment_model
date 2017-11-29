@@ -50,7 +50,7 @@ weight of risk free	0
 'V'	8.51%
 'WMT'	20.13%
 'DIS'	-18.03%
-
+![imag](https://github.com/Kaizhang48/Markowitz_investment_model/blob/master/1.png?raw=true)
 
 
 (b)weight of Market Portfolio
